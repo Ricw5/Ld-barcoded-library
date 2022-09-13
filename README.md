@@ -1,4 +1,4 @@
-# Ld-barcoded-library
+# Barcoded-library
 Ld barcoded library of resistant parasites
 Script is designed to identify specific barcodes related to resistant parasite strains. 
 
